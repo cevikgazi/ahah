@@ -1,1 +1,4 @@
 Unable to show a dialog outside the UI thread message loop: Chromium - The profile appears to be in use by another Chromium process (7832) on another computer (fedora). Chromium has locked the profile so that it doesn't get corrupted. If you are sure no other processes are using this profile, you can unlock the profile and relaunch Chromium.
+
+
+rm -rf ~/.config/chromium/Singleton*
