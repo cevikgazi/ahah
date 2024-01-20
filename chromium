@@ -2,3 +2,5 @@ Unable to show a dialog outside the UI thread message loop: Chromium - The profi
 
 
 rm -rf ~/.config/chromium/Singleton*
+
+rm -rf ~/.config/google-chrome/SingletonLock
